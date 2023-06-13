@@ -1,11 +1,15 @@
-# Jenkins-cicd-github-integration
+# node-todo-cicd
 
 Run these commands:
 
--> sudo apt install nodejs
 
--> sudo apt install npm
+`sudo apt install nodejs`
 
--> npm install
 
--> node app.js
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
